@@ -12,7 +12,7 @@
 
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=apple,linux,vim,git,stackoverflow" />
   </a>
