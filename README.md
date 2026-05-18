@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm  I'm Will! 👋 </h1>
+<h1 align="left">Hi, I'm Will! 👋 </h1>
 
 ![Activity-Graph](./assets/activity-graph.svg)
 
