@@ -6,7 +6,7 @@
       <stop offset="1" stop-color="#d946ef"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="300" rx="16" fill="url(#g)"/>
+  <rect width="1200" height="300" rx="16" fill="url(#g)" fill-opacity="0.7"/>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="700" fill="#fff">
     <text x="80" y="170" font-size="72"><tspan fill-opacity="0.75">&gt;</tspan>ws<tspan fill-opacity="0.75">_</tspan></text>
     <text x="340" y="150" font-size="48">Hi, I'm Will!</text>
