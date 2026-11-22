@@ -5,26 +5,14 @@
       <stop offset="0.5" stop-color="#818cf8"/>
       <stop offset="1" stop-color="#d946ef"/>
     </linearGradient>
-    <clipPath id="type">
-      <rect x="340" y="90" height="80" width="0">
-        <animate attributeName="width" dur="6s" repeatCount="indefinite" calcMode="discrete"
-          values="0;29;58;87;116;145;174;203;232;261;290;319;348;400;400;400;400;400;400;400;400;400;400;400"/>
-      </rect>
-    </clipPath>
   </defs>
 
   <rect width="1200" height="300" rx="16" fill="url(#g)" fill-opacity="0.8"/>
 
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-weight="700" fill="#fff">
-    <text x="80" y="170" font-size="72"><tspan fill-opacity="0.75">&gt;</tspan>ws<tspan fill-opacity="0.75">_</tspan></text>
+    <text x="80" y="170" font-size="72"><tspan fill-opacity="0.75">&gt;</tspan>ws<tspan fill-opacity="0.75"><animate attributeName="fill-opacity" values="0.75;0" dur="1s" repeatCount="indefinite" calcMode="discrete"/>_</tspan></text>
 
-    <text x="340" y="150" font-size="48" clip-path="url(#type)">Hi, I'm Will!</text>
-
-    <rect y="112" width="4" height="44" x="340">
-      <animate attributeName="x" dur="6s" repeatCount="indefinite" calcMode="discrete"
-        values="340;369;398;427;456;485;514;543;572;601;630;659;688;717;717;717;717;717;717;717;717;717;717;717"/>
-      <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" values="1;0"/>
-    </rect>
+    <text x="340" y="150" font-size="48">Hi, I'm Will!</text>
 
     <text x="340" y="200" font-size="24" font-weight="400" fill-opacity="0.7">Turning ideas into working software</text>
   </g>
